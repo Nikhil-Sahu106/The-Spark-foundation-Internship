@@ -1,7 +1,9 @@
 # The Sparks Foundation -Graduation Rotational Internship Program
-
+# DATA SCIENCE AND BUSSINESS ANALYTICS
 This repository is dedicated to the completion of all my tasks with videos from The Sparks Foundation (Graduate Rotational Internship Program).
 As of now, I will be updating the tasks from my domain : Data Science and Business Analytics for the October 2021 batch.
+
+### Author - Nikhil Sahu
 
 ## Tools/IDE : Python/Jupyter Notebook
 
